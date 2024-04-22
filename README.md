@@ -2,6 +2,9 @@
 10 ans d'expertise en optique, une passion ardente pour la technologie : bienvenue dans mon voyage vers le développement Web.<br>
 
 
+<img src="https://raw.githubusercontent.com/MichaelLELU/MichaelLELU/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/michael-lelu) 
 
