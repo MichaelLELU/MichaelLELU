@@ -1,5 +1,5 @@
 # 💫 About Me:
-10 ans d'expertise en optique, une passion ardente pour la technologie : bienvenue dans mon voyage vers le développement Web.<br>
+Drawing from 10 years of experience in the optical industry and fueled by a lifelong passion for technology and gaming, I'm now venturing into the dynamic realm of web development. With a sociable disposition and insatiable curiosity, I'm embracing this exciting journey of transition.<br> Currently enrolled in a 5-month bootcamp at Wild Code School, I'm eager to collaborate, learn, and innovate in the ever-evolving landscape of web development.<br>
 
 
 
@@ -10,8 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/michael-lelu) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MichaelLELU&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MichaelLELU&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=MichaelLELU&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelLELU&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
