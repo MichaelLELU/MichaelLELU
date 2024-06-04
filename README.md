@@ -8,7 +8,9 @@ Drawing from 10 years of experience in the optical industry and fueled by a life
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/michael-lelu) 
-
+#
+Portfolio V0.5: https://portfolio-react-michael-lelu-v1.vercel.app/
+#
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MichaelLELU&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelLELU&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
