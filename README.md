@@ -1,6 +1,6 @@
 # 💫 About Me:
 Drawing from 10 years of experience in the optical industry and fueled by a lifelong passion for technology and gaming, I'm now venturing into the dynamic realm of web development. With a sociable disposition and insatiable curiosity, I'm embracing this exciting journey of transition.
-<br> Currently enrolled in a 15-month at Wild Code School, I'm eager to collaborate, learn, and innovate in the ever-evolving landscape of web development.<br>
+<br/> Currently enrolled in a 15-month at Wild Code School, I'm eager to collaborate, learn, and innovate in the ever-evolving landscape of web development.<br>
 
 
 
